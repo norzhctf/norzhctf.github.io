@@ -2,13 +2,16 @@
   max-height: 100%;
 }
 
-/* A mettre en responsive */
 .copyright img {
   max-height: 100px;
 }
 
 .contact-details {
   padding-bottom: 5%
+}
+
+.organisation {
+  font-family: "Anaheim", sans-serif !important;
 }
 
 /*=================================================================
@@ -169,4 +172,3 @@
 .partenariat {
   margin-bottom: 30px;
 }
-
