@@ -2,7 +2,7 @@
 /*	Mapbox Customization
 /* =========================================================================  */
 
-//mapboxgl.accessToken = "pk.eyJ1IjoiZ291em91IiwiYSI6ImNqcGI1ZXIzNDBmM2QzcXBoZ2l0N3g5MHIifQ.kdORUu1Zs7Ef--x6-VzQog"
+mapboxgl.accessToken = "pk.eyJ1IjoiZ291em91IiwiYSI6ImNqcGI1ZXIzNDBmM2QzcXBoZ2l0N3g5MHIifQ.kdORUu1Zs7Ef--x6-VzQog"
 var latitude = $('#map-canvas').attr('data-latitude');
 var longitude = $('#map-canvas').attr('data-longitude');
 
