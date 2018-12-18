@@ -14,7 +14,7 @@ var map = new mapboxgl.Map({
 });
 
 var popupGalerie = new mapboxgl.Popup()
-.setHTML('<h3>Galerie des abonnés</h3><p class="address">40 place du Théâtre - Palais de la bourse</p><p>59800 Lille</p><a href="https://www.google.fr/maps/place/Now+Coworking+Lille/@50.6377566,3.0625137,17z/data=!3m1!4b1!4m5!3m4!1s0x47c2d588688ac4cb:0xc8f15891c2390937!8m2!3d50.6377532!4d3.0647024">Google Maps</a> &ndash; <a href="https://www.qwant.com/maps/#map=17.00/50.6380453/3.0639531">Qwant Maps</a>');
+.setHTML('<h3>Galerie des abonnés</h3><p class="address">40 place du Théâtre - Palais de la bourse</p><p>59800 Lille</p><a target="_blank" href="https://www.google.fr/maps/place/Now+Coworking+Lille/@50.6377566,3.0625137,17z/data=!3m1!4b1!4m5!3m4!1s0x47c2d588688ac4cb:0xc8f15891c2390937!8m2!3d50.6377532!4d3.0647024">Google Maps</a> &ndash; <a target="_blank" href="https://www.qwant.com/maps/#map=17.00/50.6380453/3.0639531">Qwant Maps</a>');
 
 var markerGalerie = new mapboxgl.Marker()
   .setLngLat([longitude, latitude])
