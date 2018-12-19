@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://norzhctf.github.io/categories/</loc>
+    <loc>https://norzh-ctf.fr/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://norzhctf.github.io/</loc>
+    <loc>https://norzh-ctf.fr/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://norzhctf.github.io/tags/</loc>
+    <loc>https://norzh-ctf.fr/tags/</loc>
     <priority>0</priority>
   </url>
   
